@@ -2,7 +2,7 @@
 // <copyright file="LeapYear.cs" company="Bridgelabz">
 //   Copyright © 2018 Company
 // </copyright>
-// <creator name="Rahul Gajare"/>
+// <creator name="Nikhil Jain"/>
 // ---------------------------------------------------------------------------------------------------------
 
 namespace FunctionalPrograms
