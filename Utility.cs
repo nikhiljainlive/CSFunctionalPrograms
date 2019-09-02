@@ -2,7 +2,7 @@
 // <copyright file="Utility.cs" company="Bridgelabz">
 //   Copyright © 2018 Company
 // </copyright>
-// <creator name="Rahul Gajare"/>
+// <creator name="Nikhil Jain"/>
 // ------
 
 using System;
