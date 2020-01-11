@@ -49,10 +49,6 @@ namespace FunctionalPrograms
                 }
             }
             return true;
-        }
-
-       
-
-       
+        }       
     }
 }
